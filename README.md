@@ -1,1 +1,1 @@
-# CV-chatbot-Qdrant-Wav2lip-LlAMA3
+# CV-chatbot-Qdrant-Wav2lip-LLAMA3
